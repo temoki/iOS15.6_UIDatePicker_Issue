@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  DatePickerIssue
+//  UIDatePickerIssue
 //
-//  Created by Tomoki Kobayashi on 2022/08/15.
+//  Created by Tomoki Kobayashi on 2022/08/16.
 //
 
 import UIKit
